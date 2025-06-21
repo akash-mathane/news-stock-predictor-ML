@@ -1,0 +1,7 @@
+# Ignore data, models, and environment files
+/data/
+/models/
+/config/newsapi_key.txt
+.env
+__pycache__/
+.ipynb_checkpoints/
